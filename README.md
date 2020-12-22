@@ -20,11 +20,11 @@ Commands to interact with the objects:
 <li>'U' key: Update an existing keyframe</li>
 <li>'C' key: Copy an already existing keyframe to the current scene</li>
 <li>'Y' key: Play the animation</li>
-
 </ul>
 
 ## Dependencies
 
 [GLFW](https://www.glfw.org) <br>
 [glew](http://glew.sourceforge.net/) <br>
-[GLM](https://glm.g-truc.net/0.9.9/index.html)
+[GLM](https://glm.g-truc.net/0.9.9/index.html) 
+
