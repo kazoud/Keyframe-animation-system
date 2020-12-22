@@ -25,3 +25,6 @@ Commands to interact with the objects:
 
 ## Dependencies
 
+[GLFW](https://www.glfw.org) <br>
+[glew](http://glew.sourceforge.net/) <br>
+[GLM](https://glm.g-truc.net/0.9.9/index.html)
