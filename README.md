@@ -5,7 +5,7 @@
 <li>Their positions and rotations are stored as 4x4 matrices</li>
 <li>Users can create keyframes to store the current position and rotation of the objects. The keyframe is stored as a vector of matrices</li>
 <li>Created keyframes are added to a list of keyframes implemented as a doubly linked list</li>
-<li>An animation that interpolates between all the keyframes can then be played</li>
+<li>An animation that interpolates between all the keyframes can then be played using quaternion interpolation</li>
 </ul>
 
 Commands to interact with the objects: 
